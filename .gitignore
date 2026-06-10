@@ -1,0 +1,10 @@
+build/
+.gradle/
+.gradle/
+*.iml
+.idea/
+*.log
+*.class
+dependency-reduced-pom.xml
+.recommenders/
+local.properties
